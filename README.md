@@ -18,7 +18,9 @@ Configuration for new environments including DQN hyper-parameters, depth and lay
 ### 1. Cartpole-v0
 
 
-![](https://drive.google.com/file/d/1AKDBrXEMD4_Dfk-qST6s8Cuh8vbMnRur/view)
+
+![](https://drive.google.com/uc?id=1AKDBrXEMD4_Dfk-qST6s8Cuh8vbMnRur)]
+
 
 Hyper-parameters used :-
 
@@ -45,7 +47,8 @@ Hyper-parameters used :-
 ### 2. Acrobot-v1 
 
 
-![](https://drive.google.com/open?id=12VdWUhSdwkHRGC-ixOf5c15FfHPOK5sr)
+![](https://drive.google.com/uc?id=12VdWUhSdwkHRGC-ixOf5c15FfHPOK5sr)
+
 
 Hyper-parameters used :-
 
