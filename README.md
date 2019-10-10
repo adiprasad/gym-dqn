@@ -9,7 +9,7 @@ Configuration for new environments including DQN hyper-parameters, depth and lay
 ## Cartpole in action
 
 
-[![](https://i9.ytimg.com/vi/bjBKKu00daM/mq1.jpg?sqp=CJDUv-kF&rs=AOn4CLCjisvcp4HXjY0-ry85X6g76CW5Vw)](https://youtu.be/bjBKKu00daM)
+[![](https://img.youtube.com/vi/bjBKKu00daM/0.jpg)](https://youtu.be/bjBKKu00daM)
 
 
 ## Learning across episodes
